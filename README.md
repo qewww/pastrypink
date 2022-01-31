@@ -10,3 +10,5 @@ https://dulkado.com/
 https://rosgar.com/
 https://bakerysupply.com.co/
 https://sweetbs.com.co/
+
+  Bocetos de wireframe: https://www.figma.com/file/OtxuBVeWp0KGM1dqt3PLj1/PASTRY-PINK?node-id=0%3A1
